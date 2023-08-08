@@ -1,0 +1,1 @@
+THIS IS THE README FILE FOR THE ALX 0x04-React_inline_styling PROJECT
